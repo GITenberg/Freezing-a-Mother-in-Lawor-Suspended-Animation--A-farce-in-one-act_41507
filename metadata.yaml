@@ -1,0 +1,30 @@
+_repo: Freezing-a-Mother-in-Lawor-Suspended-Animation--A-farce-in-one-act_41507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41507-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pemberton, T. Edgar (Thomas Edgar)
+    aliases:
+    - Pemberton, T. E. (Thomas Edgar)
+    - Pemberton, Thomas Edgar
+    birthdate: 1849
+    deathdate: 1905
+    gutenberg_agent_id: '41210'
+    url: http://www.gutenberg.org/2009/agents/41210
+description: ''
+gutenberg_issued: '2012-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+title: 'Freezing a Mother-in-Law; or, Suspended Animation: A farce in one act'
+url: http://www.gutenberg.org/ebooks/41507
